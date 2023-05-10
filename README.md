@@ -1,6 +1,6 @@
 # HTML e CSS
 
-![preview](https://github.com/v1fonseca911/portfolio.curso/assets/113269524/61bd02c7-650c-4a43-8a4c-d54ed4c173ce)
+![preview](https://github.com/v1fonseca911/portfolio.curso/assets/113269524/26a5c1cd-b513-4fa4-9d06-168c32685962)
 
 > Iniciante
 
